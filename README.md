@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I made changes already :D
+Hi, I'm John Alexander Santosa, a junior at Northeastern University's Khoury College of Computer Sciences, majoring in Computer Science with a concentration in Artificial Intelligence. I’m passionate about building intelligent systems and scalable software that bridge data, design, and impact. Having gained hands-on experience in data engineering, web development, and machine learning, I aim to help shape Indonesia’s growing AI and technology ecosystem. I’m always open to connecting with new people and exploring opportunities. Feel free to reach out at 
+santosa.j@northeastern.edu
 
 <!--
 **johnsantosa/johnsantosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
